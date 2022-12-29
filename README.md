@@ -1,5 +1,5 @@
 # Модальное окно
 
-Ссылка - 
+Ссылка - https://filimonovalexey.github.io/ReactModal/
 
 Использован ReactJS.
